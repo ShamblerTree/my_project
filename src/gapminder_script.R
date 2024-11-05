@@ -1,0 +1,1 @@
+gampminder <- read.csv("data/gapminder_data.csv")
